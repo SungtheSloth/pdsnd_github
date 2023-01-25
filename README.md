@@ -4,13 +4,13 @@
 2023-01-25
 
 ### Project Title
-Post Your Work on Github
+Explore US Bikeshare Data
 
 ### Description
-It's time to put what you've learned about version control and GitHub into practice! In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git. Here's an overview of your tasks for this project.
+In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Git Commands Documentation.pdf
+bikeshare.py
 
 ### Credits
 Udacity https://www.udacity.com/
