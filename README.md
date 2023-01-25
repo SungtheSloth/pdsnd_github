@@ -13,5 +13,5 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 Git Commands Documentation.pdf
 
 ### Credits
-Udacity
+Udacity https://www.udacity.com/
 
