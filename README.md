@@ -7,7 +7,7 @@
 Post Your Work on GitHub
 
 ### Description
-In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git. Here's an overview of your tasks for this project.
+Refactoring is the goal of cleaning the code to make it leaner and more efficient, and to overall improve the design of the code without impacting the external functionality of the code.
 
 ### Files used
 Git Commands Documentation.pdf
