@@ -14,5 +14,5 @@ Git Commands Documentation.pdf
 
 ### Credits
 Udacity
-https://learn.udacity.com/
+https://www.udacity.com/
 
