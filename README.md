@@ -13,6 +13,4 @@ It's time to put what you've learned about version control and GitHub into pract
 Git Commands Documentation.pdf
 
 ### Credits
-Udacity
-https://www.udacity.com/
-
+Udacity https://www.udacity.com/
